@@ -1,8 +1,46 @@
-#SmartDataHub – AI‑Enabled Analytics Platform for SMEs Collaborated in developing a full‑stack web platform that transforms raw business data into actionable insights, featuring multi‑format file uploads, automated data conversion, real‑time statistical analysis, and interactive dashboards. Built with Python (Flask), Pandas, NumPy, PostgreSQL, and integrated a large‑language‑model‑powered assistant to deliver plain‑language explanations and strategic recommendations. Delivered downloadable executive reports, an intuitive user experience for non‑technical users, and supported Saudi Vision 2030 digital transformation objectives.
+SmartDataHub – AI‑Enabled Analytics Platform for SMEs
 
-Key Skills Applied:
+SmartDataHub is a full‑stack web platform designed to help small and medium enterprises (SMEs) transform raw business data into actionable insights.
 
-Front‑end development (HTML, CSS, JavaScript) with responsive design
+Features
+
+Multi‑format file uploads
+
+Automated data conversion
+
+Real‑time statistical analysis
+
+Interactive dashboards
+
+Downloadable executive reports
+
+Plain‑language explanations and strategic recommendations powered by large language models
+
+Technologies Used
+
+Python (Flask)
+
+Pandas
+
+NumPy
+
+PostgreSQL
+
+HTML, CSS, JavaScript (responsive design)
+
+Key Contributions
+
+Developed and integrated AI assistant for non‑technical users
+
+Designed and implemented relational database schema
+
+Built interactive reports and dashboards
+
+Supported Saudi Vision 2030 digital transformation goals
+
+Skills Applied
+
+Front‑end development with responsive design
 
 Relational database design and implementation
 
